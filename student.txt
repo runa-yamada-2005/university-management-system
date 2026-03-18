@@ -1,0 +1,25 @@
+S001,Amirul,20,Computing
+S002,Aishah,22,Information Technology
+S003,Hakim,21,Engineering
+S004,Ainah,23,Art
+S005,Fadhil,19,Computing
+S006,Hidayah,24,Information Technology
+S007,Faiz,25,Engineering
+S008,Nabilah,23,Art
+S009,Idris,21,Computing
+S010,Nurul,22,Information Technology
+S011,Raziq,20,Engineering
+S012,Alia,21,Art
+S013,Daniel,22,Computing
+S014,Siti,23,Information Technology
+S015,Ali,20,Engineering
+S016,Zainab,24,Art
+S017,Hisham,22,Computing
+S018,Mila,23,Information Technology
+S019,Rizal,25,Engineering
+S020,Hafiz,21,Art
+S021,Harif,21,Information Technology
+S022,Joanne,20,Art
+S023,Owen,19,Engineering
+S024,Jane,19,Computing
+S025,Amelia,20,Information Technology

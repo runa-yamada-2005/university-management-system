@@ -1,0 +1,4 @@
+ART,Art,Prof. Maria Lee
+IT,Information Technology,Prof. David Harris
+CT,Computing,Prof. Jennifer Clark
+ENG,Engineering,Prof. Daniel Hall

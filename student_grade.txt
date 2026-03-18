@@ -1,0 +1,308 @@
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S002,A
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S006,A+
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S010,B
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S014,B
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S018,C+
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S021,C
+Information Technology,C1001,System software and computing concept,Dr. John Smith,3,S025,D
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S002,A+
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S006,A
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S010,B+
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S014,B
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S018,C+
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S021,C
+Information Technology,C1002,Introduction To Networking,Prof. Emily Johnson,3,S025,D
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S002,A+
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S006,A
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S010,B+
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S014,B
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S018,C+
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S021,C
+Information Technology,C1003,Introduction to Database,Dr. Michael White,4,S025,D
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S002,A+
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S006,A
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S010,B+
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S014,B
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S018,C+
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S021,C
+Information Technology,C1004,Python Programming,Prof. David Harris,3,S025,D
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S002,A+
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S006,A
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S010,B+
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S014,B
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S018,C+
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S021,C
+Information Technology,C1005,Digital Thinking,Dr. Sarah Brown,3,S025,D
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S002,A+
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S006,A
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S010,B+
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S014,B
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S018,C+
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S021,C
+Information Technology,C1006,System Analysis,Prof. Thomas Clark,4,S025,D
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S002,A+
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S006,A
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S010,B+
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S014,B
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S018,C+
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S021,C
+Information Technology,C1007,Integrated Computer Systems,Dr. Anna Lee,4,S025,D
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S001,A+
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S005,A
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S009,B+
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S013,B
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S017,C+
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S021,C
+Computing,C1008,Introduction to Security Technologies,Dr. Olivia Taylor,3,S025,D
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S001,A+
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S005,A
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S009,B+
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S013,B
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S017,C+
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S021,C
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson,4,S025,D
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S001,A+
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S005,A
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S009,B+
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S013,B
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S017,C+
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S021,C
+Computing,C1010,Ethical Hacking and Incident Response,Dr. James Allen,4,S025,D
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S001,A+
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S005,A
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S009,B+
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S013,B
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S017,C+
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S021,C
+Computing,C1011,Implementation of Secure Systems,Prof. Laura Young,4,S025,D
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S001,A+
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S005,A
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S009,B+
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S013,B
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S017,C+
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S021,C
+Computing,C1012,Web Application,Dr. Christopher Scott,3,S025,D
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S001,A+
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S005,A
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S009,B+
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S013,B
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S017,C+
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S021,C
+Computing,C1013,Advanced Software Security,Prof. Benjamin Martin,5,S025,D
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S001,A+
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S005,A
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S009,B+
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S013,B
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S017,C+
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S021,C
+Computing,C1014,Advanced Cybersecurity,Dr. Emma Cooper,5,S025,D
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S001,A+
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S005,A
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S009,B+
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S013,B
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S017,C+
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S021,C
+Computing,C1015,Investigations in Cybersecurity,Prof. Jennifer Clark,3,S025,D
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S001,A+
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S005,A
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S009,B+
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S013,B
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S017,C+
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S021,C
+Computing,C1016,Introduction to Security and Forensic Technologies,Dr. William Evans,4,S025,D
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S003,A+
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S007,A
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S011,B+
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S015,B
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S019,C+
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S021,C
+Engineering,C1017,Analysis and Testing of Machines,Prof. Daniel Hall,4,S025,D
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S003,A+
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S007,A
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S011,B+
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S015,B
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S019,C+
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S021,C
+Engineering,C1018,Automobile Design and Development,Dr. Robert Carter,4,S025,D
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S003,A+
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S007,A
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S011,B+
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S015,B
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S019,C+
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S021,C
+Engineering,C1019,Climate Control System Developer,Prof. Elizabeth Harris,4,S025,D
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S003,A+
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S007,A
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S011,B+
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S015,B
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S019,C+
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S021,C
+Engineering,C1020,Advance Robotics and Intelligent Machines,Dr. Richard Green,5,S025,D
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S003,A+
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S007,A
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S011,B+
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S015,B
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S019,C+
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S021,C
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White,4,S025,D
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S003,A+
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S007,A
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S011,B+
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S015,B
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S019,C+
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S021,C
+Engineering,C1022,Manufacturing,Dr. Charles Baker,3,S025,D
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S003,A+
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S007,A
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S011,B+
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S015,B
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S019,C+
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S021,C
+Engineering,C1023,Design and Develop a Mechatronics System,Prof. Natalie Young,5,S025,D
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S003,A+
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S007,A
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S011,B+
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S015,B
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S019,C+
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S021,C
+Engineering,C1024,Embedded and Desktop Operating Systems,Dr. Michael Thompson,4,S025,D
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S004,A+
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S008,A
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S012,B+
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S016,B
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S020,C+
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S021,C
+Art,C1025,Introduction To Graphic Design,Prof. Thomas Miller,3,S025,D
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S004,A+
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S008,A
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S012,B+
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S016,B
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S020,C+
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S021,C
+Art,C1026,Creative Project,Dr. Olivia Evans,4,S025,D
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S004,A+
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S008,A
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S012,B+
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S016,B
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S020,C+
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S021,C
+Art,C1027,Fundamentals of Entrepreneurship,Prof. Richard Reed,3,S025,D
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S004,A+
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S008,A
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S012,B+
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S016,B
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S020,C+
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S021,C
+Art,C1028,Digital Illustration,Dr. Laura Robinson,4,S025,D
+Art,C1029,Exhibition Design,Prof. William Wright,4,S004,A+
+Art,C1029,Exhibition Design,Prof. William Wright,4,S008,A
+Art,C1029,Exhibition Design,Prof. William Wright,4,S012,B+
+Art,C1029,Exhibition Design,Prof. William Wright,4,S016,B
+Art,C1029,Exhibition Design,Prof. William Wright,4,S020,C+
+Art,C1029,Exhibition Design,Prof. William Wright,4,S021,C
+Art,C1029,Exhibition Design,Prof. William Wright,4,S025,D
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S004,A+
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S008,A
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S012,B+
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S016,B
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S020,C+
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S021,C
+Art,C1030,Persuasive Copywriting,Dr. John Scott,3,S025,D
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S004,A+
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S008,A
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S012,B+
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S016,B
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S020,C+
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S021,C
+Art,C1031,Innovation Processes,Prof. Maria Lee,4,S025,D
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S004,A+
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S008,A
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S012,B+
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S016,B
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S020,C+
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S021,C
+Art,C1032,Creativity and Innovation,Dr. Jessica Harris,3,S025,D
+Art,C1033,Visual Culture,Prof. James Brown,4,S004,A+
+Art,C1033,Visual Culture,Prof. James Brown,4,S008,A
+Art,C1033,Visual Culture,Prof. James Brown,4,S012,B+
+Art,C1033,Visual Culture,Prof. James Brown,4,S016,B
+Art,C1033,Visual Culture,Prof. James Brown,4,S020,C+
+Art,C1033,Visual Culture,Prof. James Brown,4,S021,C
+Art,C1033,Visual Culture,Prof. James Brown,4,S025,D
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S004,A+
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S008,A
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S012,B+
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S016,B
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S020,C+
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S021,C
+Art,C1034,Motion Graphics,Dr. Patricia Clark,4,S025,D
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S004,A+
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S008,A
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S012,B+
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S016,B
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S020,C+
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S021,C
+elective,E2001,Introduction to Artificial Intelligence,Dr. David White,3,S025,D
+elective,E2002,DMS,Prof. Emily Johnson,3,S004,A+
+elective,E2002,DMS,Prof. Emily Johnson,3,S008,A
+elective,E2002,DMS,Prof. Emily Johnson,3,S012,B+
+elective,E2002,DMS,Prof. Emily Johnson,3,S016,B
+elective,E2002,DMS,Prof. Emily Johnson,3,S020,C+
+elective,E2002,DMS,Prof. Emily Johnson,3,S021,C
+elective,E2002,DMS,Prof. Emily Johnson,3,S025,D
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S004,A+
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S008,A
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S012,B+
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S016,B
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S020,C+
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S021,C
+elective,E2003,Environmental Sustainability and Policy,Dr. Sarah Harris,3,S025,D
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S004,A+
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S008,A
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S012,B+
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S016,B
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S020,C+
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S021,C
+elective,E2004,Creative Writing,Prof. Brian Taylor,3,S025,D
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S004,A+
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S008,A
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S012,B+
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S016,B
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S020,C+
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S021,C
+elective,E2005,Game Design and Development,Dr. Linda Green,4,S025,D
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S004,A+
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S008,A
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S012,B+
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S016,B
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S020,C+
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S021,C
+elective,E2006,International Relations and Global Politics,Prof. Robert Lee,3,S025,D
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S004,A+
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S008,A
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S012,B+
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S016,B
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S020,C+
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S021,C
+elective,E2007,Contemporary Art History,Dr. Olivia Evans,3,S025,D
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S004,A+
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S008,A
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S012,B+
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S016,B
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S020,C+
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S021,C
+elective,E2008,Data Analytics and Visualization,Prof. Daniel Scott,4,S025,D
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S004,A+
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S008,A
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S012,B+
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S016,B
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S020,C+
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S021,C
+elective,E2009,Entrepreneurship and Innovation,Dr. Jessica Brown,4,S025,D
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S004,A+
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S008,A
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S012,B+
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S016,B
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S020,C+
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S021,C
+elective,E2010,Psychology of Human Behavior,Prof. William White,3,S025,C

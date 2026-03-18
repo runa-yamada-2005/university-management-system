@@ -1,0 +1,44 @@
+L001,John Smith,Information Technology,C1001,System software and computing concept,3
+L002,Emily Johnson,Information Technology,C1002,Introduction To Networking,3
+L003,Michael White,Information Technology,C1003,Introduction to Database,4
+L004,David Harris,Information Technology,C1004,Python Programming,3
+L005,Sarah Brown,Information Technology,C1005,Digital Thinking,3
+L006,Thomas Clark,Information Technology,C1006,System Analysis,4
+L007,Anna Lee,Information Technology,C1007,Integrated Computer Systems,4
+L008,Olivia Taylor,Computing,C1008,Introduction to Security Technologies,3
+L009,Daniel Wilson,Computing,C1009,Introduction to Cybersecurity Fundamentals,4
+L010,James Allen,Computing,C1010,Ethical Hacking and Incident Response,4
+L011,Laura Young,Computing,C1011,Implementation of Secure Systems,4
+L012,Christopher Scott,Computing,C1012,Web Application,3
+L013,Benjamin Martin,Computing,C1013,Advanced Software Security,5
+L014,Emma Cooper,Computing,C1014,Advanced Cybersecurity,5
+L015,Jennifer Clark,Computing,C1015,Investigations in Cybersecurity,3
+L016,William Evans,Computing,C1016,Introduction to Security and Forensic Technologies,4
+L017,Daniel Hall,Engineering,C1017,Analysis and Testing of Machines,4
+L018,Robert Carter,Engineering,C1018,Automobile Design and Development,4
+L019,Elizabeth Harris,Engineering,C1019,Climate Control System Developer,4
+L020,Richard Green,Engineering,C1020,Advance Robotics and Intelligent Machines,5
+L021,Patricia White,Engineering,C1021,Instrumentation in Electrical and Electronic Systems,4
+L022,Charles Baker,Engineering,C1022,Manufacturing,3
+L023,Natalie Young,Engineering,C1023,Design and Develop a Mechatronics System,5
+L024,Michael Thompson,Engineering,C1024,Embedded and Desktop Operating Systems,4
+L025,Thomas Miller,Art,C1025,Introduction To Graphic Design,3
+L026,Olivia Evans,Art,C1026,Creative Project,4
+L027,Richard Reed,Art,C1027,Fundamentals of Entrepreneurship,3
+L028,Laura Robinson,Art,C1028,Digital Illustration,4
+L029,William Wright,Art,C1029,Exhibition Design,4
+L030,John Scott,Art,C1030,Persuasive Copywriting,3
+L031,Maria Lee,Art,C1031,Innovation Processes,4
+L032,Jessica Harris,Art,C1032,Creativity and Innovation,3
+L033,James Brown,Art,C1033,Visual Culture,4
+L034,Patricia Clark,Art,C1034,Motion Graphics,4
+L035,David White,elective,E2001,Introduction to Artificial Intelligence,3
+L036,Emily Johnson,elective,E2002,DMS,3
+L037,Sarah Harris,elective,E2003,Environmental Sustainability and Policy,3
+L038,Brian Taylor,elective,E2004,Creative Writing,3
+L039,Linda Green,elective,E2005,Game Design and Development,4
+L040,Robert Lee,elective,E2006,International Relations and Global Politics,3
+L041,Olivia Evans,elective,E2007,Contemporary Art History,3
+L042,Daniel Scott,elective,E2008,Data Analytics and Visualization,4
+L043,Jessica Brown,elective,E2009,Entrepreneurship and Innovation,4
+L044,William White,elective,E2010,Psychology of Human Behavior,3

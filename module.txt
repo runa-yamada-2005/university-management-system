@@ -1,0 +1,44 @@
+Information Technology,C1001,System software and computing concept,John Smith,active
+Information Technology,C1002,Introduction To Networking,Emily Johnson,active
+Information Technology,C1003,Introduction to Database,Michael White,active
+Information Technology,C1004,Python Programming,David Harris,active
+Information Technology,C1005,Digital Thinking,Sarah Brown,active
+Information Technology,C1006,System Analysis,Thomas Clark,active
+Information Technology,C1007,Integrated Computer Systems,Anna Lee,active
+Computing,C1008,Introduction to Security Technologies,Olivia Taylor,active
+Computing,C1009,Introduction to Cybersecurity Fundamentals,Daniel Wilson,active
+Computing,C1010,Ethical Hacking and Incident Response,James Allen,active
+Computing,C1011,Implementation of Secure Systems,Laura Young,active
+Computing,C1012,Web Application,Christopher Scott,active
+Computing,C1013,Advanced Software Security,Benjamin Martin,active
+Computing,C1014,Advanced Cybersecurity,Emma Cooper,active
+Computing,C1015,Investigations in Cybersecurity,Jennifer Clark,active
+Computing,C1016,Introduction to Security and Forensic Technologies,William Evans,active
+Engineering,C1017,Analysis and Testing of Machines,Daniel Hall,active
+Engineering,C1018,Automobile Design and Development,Robert Carter,active
+Engineering,C1019,Climate Control System Developer,Elizabeth Harris,active
+Engineering,C1020,Advance Robotics and Intelligent Machines,Richard Green,active
+Engineering,C1021,Instrumentation in Electrical and Electronic Systems,Patricia White,active
+Engineering,C1022,Manufacturing,Charles Baker,active
+Engineering,C1023,Design and Develop a Mechatronics System,Natalie Young,active
+Engineering,C1024,Embedded and Desktop Operating Systems,Michael Thompson,active
+Art,C1025,Introduction To Graphic Design,Thomas Miller,active
+Art,C1026,Creative Project,Olivia Evans,active
+Art,C1027,Fundamentals of Entrepreneurship,Richard Reed,active
+Art,C1028,Digital Illustration,Laura Robinson,active
+Art,C1029,Exhibition Design,William Wright,active
+Art,C1030,Persuasive Copywriting,John Scott,active
+Art,C1031,Innovation Processes,Maria Lee,active
+Art,C1032,Creativity and Innovation,Jessica Harris,active
+Art,C1033,Visual Culture,James Brown,active
+Art,C1034,Motion Graphics,Patricia Clark,active
+elective,E2001,Introduction to Artificial Intelligence,David White,active
+elective,E2002,DMS,Emily Johnson,active
+elective,E2003,Environmental Sustainability and Policy,Sarah Harris,active
+elective,E2004,Creative Writing,Brian Taylor,inactive
+elective,E2005,Game Design and Development,Linda Green,active
+elective,E2006,International Relations and Global Politics,Robert Lee,inactive
+elective,E2007,Contemporary Art History,Olivia Evans,inactive
+elective,E2008,Data Analytics and Visualization,Daniel Scott,active
+elective,E2009,Entrepreneurship and Innovation,Jessica Brown,active
+elective,E2010,Psychology of Human Behavior,William White,active

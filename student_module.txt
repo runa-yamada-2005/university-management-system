@@ -1,0 +1,234 @@
+S001,Amirul,Computing,Introduction to Security Technologies,Dr. Olivia Taylor
+S001,Amirul,Computing,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson
+S001,Amirul,Computing,Ethical Hacking and Incident Response,Dr. James Allen
+S001,Amirul,Computing,Implementation of Secure Systems,Prof. Laura Young
+S001,Amirul,Computing,Web Application,Dr. Christopher Scott
+S001,Amirul,Computing,Advanced Software Security,Prof. Benjamin Martin
+S001,Amirul,Computing,Advanced Cybersecurity,Dr. Emma Cooper
+S001,Amirul,Computing,Investigations in Cybersecurity,Prof. Jennifer Clark
+S001,Amirul,Computing,Introduction to Security and Forensic Technologies,Dr. William Evans
+S002,Aishah,Information Technology,System software and computing concept,Dr. John Smith
+S002,Aishah,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S002,Aishah,Information Technology,Introduction to Database,Dr. Michael White
+S002,Aishah,Information Technology,Python Programming,Prof. David Harris
+S002,Aishah,Information Technology,Digital Thinking,Dr. Sarah Brown
+S002,Aishah,Information Technology,System Analysis,Prof. Thomas Clark
+S002,Aishah,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S003,Hakim,Engineering,Analysis and Testing of Machines,Prof. Daniel Hall
+S003,Hakim,Engineering,Automobile Design and Development,Dr. Robert Carter
+S003,Hakim,Engineering,Climate Control System Developer,Prof. Elizabeth Harris
+S003,Hakim,Engineering,Advance Robotics and Intelligent Machines,Dr. Richard Green
+S003,Hakim,Engineering,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White
+S003,Hakim,Engineering,Manufacturing,Dr. Charles Baker
+S003,Hakim,Engineering,Design and Develop a Mechatronics System,Prof. Natalie Young
+S003,Hakim,Engineering,Embedded and Desktop Operating Systems,Dr. Michael Thompson
+S004,Ainah,Art,Introduction To Graphic Design,Prof. Thomas Miller
+S004,Ainah,Art,Creative Project,Dr. Olivia Evans
+S004,Ainah,Art,Fundamentals of Entrepreneurship,Prof. Richard Reed
+S004,Ainah,Art,Digital Illustration,Dr. Laura Robinson
+S004,Ainah,Art,Exhibition Design,Prof. William Wright
+S004,Ainah,Art,Persuasive Copywriting,Dr. John Scott
+S004,Ainah,Art,Innovation Processes,Prof. Maria Lee
+S004,Ainah,Art,Creativity and Innovation,Dr. Jessica Harris
+S004,Ainah,Art,Visual Culture,Prof. James Brown
+S004,Ainah,Art,Motion Graphics,Dr. Patricia Clark
+S004,Ainah,Art,Introduction to Artificial Intelligence,Dr. David White
+S004,Ainah,Art,DMS,Prof. Emily Johnson
+S004,Ainah,Art,Environmental Sustainability and Policy,Dr. Sarah Harris
+S004,Ainah,Art,Creative Writing,Prof. Brian Taylor
+S004,Ainah,Art,Game Design and Development,Dr. Linda Green
+S004,Ainah,Art,International Relations and Global Politics,Prof. Robert Lee
+S004,Ainah,Art,Contemporary Art History,Dr. Olivia Evans
+S004,Ainah,Art,Data Analytics and Visualization,Prof. Daniel Scott
+S004,Ainah,Art,Entrepreneurship and Innovation,Dr. Jessica Brown
+S004,Ainah,Art,Psychology of Human Behavior,Prof. William White
+S005,Fadhil,Computing,Introduction to Security Technologies,Dr. Olivia Taylor
+S005,Fadhil,Computing,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson
+S005,Fadhil,Computing,Ethical Hacking and Incident Response,Dr. James Allen
+S005,Fadhil,Computing,Implementation of Secure Systems,Prof. Laura Young
+S005,Fadhil,Computing,Web Application,Dr. Christopher Scott
+S005,Fadhil,Computing,Advanced Software Security,Prof. Benjamin Martin
+S005,Fadhil,Computing,Advanced Cybersecurity,Dr. Emma Cooper
+S005,Fadhil,Computing,Investigations in Cybersecurity,Prof. Jennifer Clark
+S005,Fadhil,Computing,Introduction to Security and Forensic Technologies,Dr. William Evans
+S006,Hidayah,Information Technology,System software and computing concept,Dr. John Smith
+S006,Hidayah,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S006,Hidayah,Information Technology,Introduction to Database,Dr. Michael White
+S006,Hidayah,Information Technology,Python Programming,Prof. David Harris
+S006,Hidayah,Information Technology,Digital Thinking,Dr. Sarah Brown
+S006,Hidayah,Information Technology,System Analysis,Prof. Thomas Clark
+S006,Hidayah,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S007,Faiz,Engineering,Analysis and Testing of Machines,Prof. Daniel Hall
+S007,Faiz,Engineering,Automobile Design and Development,Dr. Robert Carter
+S007,Faiz,Engineering,Climate Control System Developer,Prof. Elizabeth Harris
+S007,Faiz,Engineering,Advance Robotics and Intelligent Machines,Dr. Richard Green
+S007,Faiz,Engineering,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White
+S007,Faiz,Engineering,Manufacturing,Dr. Charles Baker
+S007,Faiz,Engineering,Design and Develop a Mechatronics System,Prof. Natalie Young
+S007,Faiz,Engineering,Embedded and Desktop Operating Systems,Dr. Michael Thompson
+S008,Nabilah,Art,Introduction To Graphic Design,Prof. Thomas Miller
+S008,Nabilah,Art,Creative Project,Dr. Olivia Evans
+S008,Nabilah,Art,Fundamentals of Entrepreneurship,Prof. Richard Reed
+S008,Nabilah,Art,Digital Illustration,Dr. Laura Robinson
+S008,Nabilah,Art,Exhibition Design,Prof. William Wright
+S008,Nabilah,Art,Persuasive Copywriting,Dr. John Scott
+S008,Nabilah,Art,Innovation Processes,Prof. Maria Lee
+S008,Nabilah,Art,Creativity and Innovation,Dr. Jessica Harris
+S008,Nabilah,Art,Visual Culture,Prof. James Brown
+S008,Nabilah,Art,Motion Graphics,Dr. Patricia Clark
+S008,Nabilah,Art,Introduction to Artificial Intelligence,Dr. David White
+S008,Nabilah,Art,DMS,Prof. Emily Johnson
+S008,Nabilah,Art,Environmental Sustainability and Policy,Dr. Sarah Harris
+S008,Nabilah,Art,Creative Writing,Prof. Brian Taylor
+S008,Nabilah,Art,Game Design and Development,Dr. Linda Green
+S008,Nabilah,Art,International Relations and Global Politics,Prof. Robert Lee
+S008,Nabilah,Art,Contemporary Art History,Dr. Olivia Evans
+S008,Nabilah,Art,Data Analytics and Visualization,Prof. Daniel Scott
+S008,Nabilah,Art,Entrepreneurship and Innovation,Dr. Jessica Brown
+S008,Nabilah,Art,Psychology of Human Behavior,Prof. William White
+S009,Idris,Computing,Introduction to Security Technologies,Dr. Olivia Taylor
+S009,Idris,Computing,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson
+S009,Idris,Computing,Ethical Hacking and Incident Response,Dr. James Allen
+S009,Idris,Computing,Implementation of Secure Systems,Prof. Laura Young
+S009,Idris,Computing,Web Application,Dr. Christopher Scott
+S009,Idris,Computing,Advanced Software Security,Prof. Benjamin Martin
+S009,Idris,Computing,Advanced Cybersecurity,Dr. Emma Cooper
+S009,Idris,Computing,Investigations in Cybersecurity,Prof. Jennifer Clark
+S009,Idris,Computing,Introduction to Security and Forensic Technologies,Dr. William Evans
+S010,Nurul,Information Technology,System software and computing concept,Dr. John Smith
+S010,Nurul,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S010,Nurul,Information Technology,Introduction to Database,Dr. Michael White
+S010,Nurul,Information Technology,Python Programming,Prof. David Harris
+S010,Nurul,Information Technology,Digital Thinking,Dr. Sarah Brown
+S010,Nurul,Information Technology,System Analysis,Prof. Thomas Clark
+S010,Nurul,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S011,Raziq,Engineering,Analysis and Testing of Machines,Prof. Daniel Hall
+S011,Raziq,Engineering,Automobile Design and Development,Dr. Robert Carter
+S011,Raziq,Engineering,Climate Control System Developer,Prof. Elizabeth Harris
+S011,Raziq,Engineering,Advance Robotics and Intelligent Machines,Dr. Richard Green
+S011,Raziq,Engineering,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White
+S011,Raziq,Engineering,Manufacturing,Dr. Charles Baker
+S011,Raziq,Engineering,Design and Develop a Mechatronics System,Prof. Natalie Young
+S011,Raziq,Engineering,Embedded and Desktop Operating Systems,Dr. Michael Thompson
+S012,Alia,Art,Introduction To Graphic Design,Prof. Thomas Miller
+S012,Alia,Art,Creative Project,Dr. Olivia Evans
+S012,Alia,Art,Fundamentals of Entrepreneurship,Prof. Richard Reed
+S012,Alia,Art,Digital Illustration,Dr. Laura Robinson
+S012,Alia,Art,Exhibition Design,Prof. William Wright
+S012,Alia,Art,Persuasive Copywriting,Dr. John Scott
+S012,Alia,Art,Innovation Processes,Prof. Maria Lee
+S012,Alia,Art,Creativity and Innovation,Dr. Jessica Harris
+S012,Alia,Art,Visual Culture,Prof. James Brown
+S012,Alia,Art,Motion Graphics,Dr. Patricia Clark
+S012,Alia,Art,Introduction to Artificial Intelligence,Dr. David White
+S012,Alia,Art,DMS,Prof. Emily Johnson
+S012,Alia,Art,Environmental Sustainability and Policy,Dr. Sarah Harris
+S012,Alia,Art,Creative Writing,Prof. Brian Taylor
+S012,Alia,Art,Game Design and Development,Dr. Linda Green
+S012,Alia,Art,International Relations and Global Politics,Prof. Robert Lee
+S012,Alia,Art,Contemporary Art History,Dr. Olivia Evans
+S012,Alia,Art,Data Analytics and Visualization,Prof. Daniel Scott
+S012,Alia,Art,Entrepreneurship and Innovation,Dr. Jessica Brown
+S012,Alia,Art,Psychology of Human Behavior,Prof. William White
+S013,Daniel,Computing,Introduction to Security Technologies,Dr. Olivia Taylor
+S013,Daniel,Computing,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson
+S013,Daniel,Computing,Ethical Hacking and Incident Response,Dr. James Allen
+S013,Daniel,Computing,Implementation of Secure Systems,Prof. Laura Young
+S013,Daniel,Computing,Web Application,Dr. Christopher Scott
+S013,Daniel,Computing,Advanced Software Security,Prof. Benjamin Martin
+S013,Daniel,Computing,Advanced Cybersecurity,Dr. Emma Cooper
+S013,Daniel,Computing,Investigations in Cybersecurity,Prof. Jennifer Clark
+S013,Daniel,Computing,Introduction to Security and Forensic Technologies,Dr. William Evans
+S014,Siti,Information Technology,System software and computing concept,Dr. John Smith
+S014,Siti,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S014,Siti,Information Technology,Introduction to Database,Dr. Michael White
+S014,Siti,Information Technology,Python Programming,Prof. David Harris
+S014,Siti,Information Technology,Digital Thinking,Dr. Sarah Brown
+S014,Siti,Information Technology,System Analysis,Prof. Thomas Clark
+S014,Siti,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S015,Ali,Engineering,Analysis and Testing of Machines,Prof. Daniel Hall
+S015,Ali,Engineering,Automobile Design and Development,Dr. Robert Carter
+S015,Ali,Engineering,Climate Control System Developer,Prof. Elizabeth Harris
+S015,Ali,Engineering,Advance Robotics and Intelligent Machines,Dr. Richard Green
+S015,Ali,Engineering,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White
+S015,Ali,Engineering,Manufacturing,Dr. Charles Baker
+S015,Ali,Engineering,Design and Develop a Mechatronics System,Prof. Natalie Young
+S015,Ali,Engineering,Embedded and Desktop Operating Systems,Dr. Michael Thompson
+S016,Zainab,Art,Introduction To Graphic Design,Prof. Thomas Miller
+S016,Zainab,Art,Creative Project,Dr. Olivia Evans
+S016,Zainab,Art,Fundamentals of Entrepreneurship,Prof. Richard Reed
+S016,Zainab,Art,Digital Illustration,Dr. Laura Robinson
+S016,Zainab,Art,Exhibition Design,Prof. William Wright
+S016,Zainab,Art,Persuasive Copywriting,Dr. John Scott
+S016,Zainab,Art,Innovation Processes,Prof. Maria Lee
+S016,Zainab,Art,Creativity and Innovation,Dr. Jessica Harris
+S016,Zainab,Art,Visual Culture,Prof. James Brown
+S016,Zainab,Art,Motion Graphics,Dr. Patricia Clark
+S016,Zainab,Art,Introduction to Artificial Intelligence,Dr. David White
+S016,Zainab,Art,DMS,Prof. Emily Johnson
+S016,Zainab,Art,Environmental Sustainability and Policy,Dr. Sarah Harris
+S016,Zainab,Art,Creative Writing,Prof. Brian Taylor
+S016,Zainab,Art,Game Design and Development,Dr. Linda Green
+S016,Zainab,Art,International Relations and Global Politics,Prof. Robert Lee
+S016,Zainab,Art,Contemporary Art History,Dr. Olivia Evans
+S016,Zainab,Art,Data Analytics and Visualization,Prof. Daniel Scott
+S016,Zainab,Art,Entrepreneurship and Innovation,Dr. Jessica Brown
+S016,Zainab,Art,Psychology of Human Behavior,Prof. William White
+S017,Hisham,Computing,Introduction to Security Technologies,Dr. Olivia Taylor
+S017,Hisham,Computing,Introduction to Cybersecurity Fundamentals,Prof. Daniel Wilson
+S017,Hisham,Computing,Ethical Hacking and Incident Response,Dr. James Allen
+S017,Hisham,Computing,Implementation of Secure Systems,Prof. Laura Young
+S017,Hisham,Computing,Web Application,Dr. Christopher Scott
+S017,Hisham,Computing,Advanced Software Security,Prof. Benjamin Martin
+S017,Hisham,Computing,Advanced Cybersecurity,Dr. Emma Cooper
+S017,Hisham,Computing,Investigations in Cybersecurity,Prof. Jennifer Clark
+S017,Hisham,Computing,Introduction to Security and Forensic Technologies,Dr. William Evans
+S018,Mila,Information Technology,System software and computing concept,Dr. John Smith
+S018,Mila,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S018,Mila,Information Technology,Introduction to Database,Dr. Michael White
+S018,Mila,Information Technology,Python Programming,Prof. David Harris
+S018,Mila,Information Technology,Digital Thinking,Dr. Sarah Brown
+S018,Mila,Information Technology,System Analysis,Prof. Thomas Clark
+S018,Mila,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S019,Rizal,Engineering,Analysis and Testing of Machines,Prof. Daniel Hall
+S019,Rizal,Engineering,Automobile Design and Development,Dr. Robert Carter
+S019,Rizal,Engineering,Climate Control System Developer,Prof. Elizabeth Harris
+S019,Rizal,Engineering,Advance Robotics and Intelligent Machines,Dr. Richard Green
+S019,Rizal,Engineering,Instrumentation in Electrical and Electronic Systems,Prof. Patricia White
+S019,Rizal,Engineering,Manufacturing,Dr. Charles Baker
+S019,Rizal,Engineering,Design and Develop a Mechatronics System,Prof. Natalie Young
+S019,Rizal,Engineering,Embedded and Desktop Operating Systems,Dr. Michael Thompson
+S020,Hafiz,Art,Introduction To Graphic Design,Prof. Thomas Miller
+S020,Hafiz,Art,Creative Project,Dr. Olivia Evans
+S020,Hafiz,Art,Fundamentals of Entrepreneurship,Prof. Richard Reed
+S020,Hafiz,Art,Digital Illustration,Dr. Laura Robinson
+S020,Hafiz,Art,Exhibition Design,Prof. William Wright
+S020,Hafiz,Art,Persuasive Copywriting,Dr. John Scott
+S020,Hafiz,Art,Innovation Processes,Prof. Maria Lee
+S020,Hafiz,Art,Creativity and Innovation,Dr. Jessica Harris
+S020,Hafiz,Art,Visual Culture,Prof. James Brown
+S020,Hafiz,Art,Motion Graphics,Dr. Patricia Clark
+S020,Hafiz,Art,Introduction to Artificial Intelligence,Dr. David White
+S020,Hafiz,Art,DMS,Prof. Emily Johnson
+S020,Hafiz,Art,Environmental Sustainability and Policy,Dr. Sarah Harris
+S020,Hafiz,Art,Creative Writing,Prof. Brian Taylor
+S020,Hafiz,Art,Game Design and Development,Dr. Linda Green
+S020,Hafiz,Art,International Relations and Global Politics,Prof. Robert Lee
+S020,Hafiz,Art,Contemporary Art History,Dr. Olivia Evans
+S020,Hafiz,Art,Data Analytics and Visualization,Prof. Daniel Scott
+S020,Hafiz,Art,Entrepreneurship and Innovation,Dr. Jessica Brown
+S020,Hafiz,Art,Psychology of Human Behavior,Prof. William White
+S021,Harif,Information Technology,System software and computing concept,Dr. John Smith
+S021,Harif,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S021,Harif,Information Technology,Introduction to Database,Dr. Michael White
+S021,Harif,Information Technology,Python Programming,Prof. David Harris
+S021,Harif,Information Technology,Digital Thinking,Dr. Sarah Brown
+S021,Harif,Information Technology,System Analysis,Prof. Thomas Clark
+S021,Harif,Information Technology,Integrated Computer Systems,Dr. Anna Lee
+S025,Amelia,Information Technology,System software and computing concept,Dr. John Smith
+S025,Amelia,Information Technology,Introduction To Networking,Prof. Emily Johnson
+S025,Amelia,Information Technology,Introduction to Database,Dr. Michael White
+S025,Amelia,Information Technology,Python Programming,Prof. David Harris
+S025,Amelia,Information Technology,Digital Thinking,Dr. Sarah Brown
+S025,Amelia,Information Technology,System Analysis,Prof. Thomas Clark
+S025,Amelia,Information Technology,Integrated Computer Systems,Dr. Anna Lee
