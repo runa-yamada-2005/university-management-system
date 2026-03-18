@@ -1,5 +1,4 @@
 # University Management System
-（大学管理システム）
 This is a Python-based university management system developed as part of a coursework project.
 
 ---
