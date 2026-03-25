@@ -1,64 +1,54 @@
 # University Management System
-This is a Python-based university management system developed as part of a coursework project.
+
+## Overview
+This project is a Python-based university management system developed as part of a coursework assignment.  
+It manages academic data such as modules, student grades, and attendance records using a command-line interface.
 
 ---
 
-## Overview（概要）
+## My Contribution
 
-This system allows different types of users (such as lecturers) to manage university-related data including modules, student grades, and attendance records.
-
-本システムは、講師などのユーザーが科目情報、成績、出席情報を管理できるPythonベースの大学管理システムです。
+I was responsible for the **Lecturer Module** of the system.
 
 ---
 
-## Features
-
-- Role-based login system (Student / Lecturer / Admin)
-- View assigned modules (file handling)
-- Record student grades (with validation and update)
-- Mark student attendance (Present / Absent input)
-- Data stored using text files
-
----
-
-## My Contribution（担当部分）
-
-- Implemented lecturer menu system  
-- Developed grade recording logic with validation  
-- Designed attendance tracking system  
-- Implemented file-based data handling  
-
-講師機能（Lecturer部分）の設計・実装を担当しました。
-
----
-
-## Lecturer Functions (Screenshots)
+## Lecturer Module
 
 ### Lecturer Menu
-![menu](images/lecturer_menu.png)
+![Lecturer Menu](images/lecturer_menu.png)
 
 ### View Assigned Modules
-![modules](images/lecturer_modules.png)
+![Modules](images/lecturer_modules.png)
 
-### Record Grades
-![grades](images/lecturer_grade.png)
+### Record Student Grades
+![Grades](images/lecturer_grade.png)
 
-### Mark Attendance
-![attendance](images/lecturer_attendance.png)
+### Mark Student Attendance
+![Attendance](images/lecturer_attendance.png)
+
+---
+
+## 日本語補足
+
+本システムは、講師や管理者が学生の科目情報・成績・出席を管理できるPythonベースの大学管理システムです。
+
+私は主に以下の機能の設計・実装を担当しました：
+
+- Lecturer Module（講師用メニュー・成績登録・出席管理機能）
+- ファイルベースのデータ管理（.txt）
 
 ---
 
 ## Technologies Used
-
 - Python
-- File Handling (.txt)
-- CLI (Command Line Interface)
+- File handling (.txt)
+- Command Line Interface (CLI)
 
 ---
 
 ## How to Run
 
-1. Download all files  
+1. Download or clone the repository  
 2. Ensure all `.txt` files are in the same directory  
 3. Run the following command:
 
